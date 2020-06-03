@@ -18,7 +18,7 @@ NESC课题组的云端技术全台，全方面的物联网云端解决方案，�
 
 [rcloud](https://rcloud.nescar.icu)数据采集云平台，实现数据的接收、解析、存储和下发。
 
-OTA平台实现远程固件升级，包括[OTAB](https://otab.nescar.icu)（后端）和otaf(https://otaf.nescar.icu)（前端）
+OTA平台实现远程固件升级，包括[OTAB](https://otab.nescar.icu)（后端）和[otaf](https://otaf.nescar.icu)（前端）
 
 rcloud和OTA两者相辅相成，赋能汽车行业，提高汽车工程师开发和测试效率。
 
