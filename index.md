@@ -42,8 +42,6 @@ NESC课题组的云端技术全台，全方面的物联网云端解决方案，�
 
 Email: sonechaochao@163.com
 
-----
-
 <iframe 
     width="800" 
     height="450" 
