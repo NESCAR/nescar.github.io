@@ -30,7 +30,7 @@ NESC课题组的云端技术全台，全方面的物联网云端解决方案，�
 
 > 作者: [@Neyzoter](https://github.com/Neyzoter)、[@jinhu-whale](https://github.com/jinghu-whale)
 
-### 2.2 [armee-bak-jet](https://armee-bak-jet.nescar.icu/)
+### 2.2 [armee-jet](https://armee-jet.nescar.icu/)
 
 交通部JT/T808标准的数据采集平台，armee的子项目。
 
